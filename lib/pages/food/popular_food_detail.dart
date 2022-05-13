@@ -70,9 +70,6 @@ class PopularFoodDetail extends StatelessWidget {
                     SizedBox(
                       height: Dimensions.height20,
                     ),
-                    // Expanded(
-                    //   child: SingleChildScrollView(child: Text("Shrimp fried rice is a great recipe for nights when you're looking for a quick way to use up leftovers. Feel free to experiment with using fresh mushrooms or other vegetables in place of the peas. Shrimp fried rice is a great recipe for nights when you're looking for a quick way to use up leftovers. Feel free to experiment with using fresh mushrooms or other vegetables in place of the peas. Shrimp fried rice is a great recipe for nights when you're looking for a quick way to use up leftovers. Feel free to experiment with using fresh mushrooms or other vegetables in place of the peas. Shrimp fried rice is a great recipe for nights when you're looking for a quick way to use up leftovers. Feel free to experiment with using fresh mushrooms or other vegetables in place of the peas.",overflow: TextOverflow.clip,)),
-                    // )
                     Expanded(
                       child: SingleChildScrollView(
                         child: ExpandableTextWidget(
